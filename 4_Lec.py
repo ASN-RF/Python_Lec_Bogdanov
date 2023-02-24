@@ -45,5 +45,11 @@
 # print (res)
 
 #  --------- MAP ------
-list_1 = list(map(int, input('Введите Ваш набор чисел: ').split()))
-print(list_1)
+# list_1 = list(map(int, input('Введите Ваш набор чисел: ').split()))
+# print(list_1)
+
+# import os
+# print (os.getcwd())
+
+Dlina = {4, 4, 4}
+print (len(set(Dlina)))
